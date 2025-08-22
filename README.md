@@ -19,7 +19,7 @@ ACTRIS-EARLINET 2025 aerosol optical property profiles over AKY Antikythera - Gr
 Citation:  
 Amiridis, V., & Marinou, E. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over AKY Antikythera - Greece (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/4JEW-MM52
 
-https://doi.org/10.57837/actris-ares/4jew-mm52
+https://doi.org/10.57837/actris-ares/4jew-mm52  
 https://commons.datacite.org/doi.org/10.57837/actris-ares/4jew-mm52
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=AKY&kind=OPTICAL&wavelength=355  
@@ -32,7 +32,7 @@ ACTRIS-EARLINET 2025 aerosol optical property profiles over BRC Barcelona - Spai
 Citation:  
 Muñoz-Porcar, C., & Rodríguez-Gómez, A. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over BRC Barcelona - Spain (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/3YHY-VA93  
 
-https://doi.org/10.57837/actris-ares/3yhy-va93
+https://doi.org/10.57837/actris-ares/3yhy-va93  
 https://commons.datacite.org/doi.org/10.57837/actris-ares/3yhy-va93 
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=brc&kind=OPTICAL&wavelength=355  
@@ -45,7 +45,7 @@ ACTRIS-EARLINET 2025 aerosol optical property profiles over CBW Cabauw - Netherl
 Citation:  
 Apituley, A., & Alves Gouveia, D. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over CBW Cabauw - Netherlands (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/4PPD-HC50  
 
-https://doi.org/10.57837/actris-ares/4ppd-hc50
+https://doi.org/10.57837/actris-ares/4ppd-hc50  
 https://commons.datacite.org/doi.org/10.57837/actris-ares/4ppd-hc50
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=cbw&kind=OPTICAL&wavelength=355  
@@ -57,7 +57,7 @@ ACTRIS-EARLINET 2025 aerosol optical property profiles over CVO Mindelo - Capo V
 
 Citation:  
 Baars, H., Engelmann, R., & Klamt, A. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over CVO Mindelo - Capo Verde (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/3ABX-4D65  
-https://doi.org/10.57837/actris-ares/3abx-4d65
+https://doi.org/10.57837/actris-ares/3abx-4d65  
 https://commons.datacite.org/doi.org/10.57837/actris-ares/3abx-4d65
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=cvo&kind=OPTICAL&wavelength=355  
@@ -70,7 +70,7 @@ ACTRIS-EARLINET 2025 aerosol optical property profiles over DUS Dushanbe - Tajik
 Citation:  
 Baars, H., Engelmann, R., & Klamt, A. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over DUS Dushanbe - Tajikistan (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/S6KF-8G54  
 
-https://doi.org/10.57837/actris-ares/s6kf-8g54
+https://doi.org/10.57837/actris-ares/s6kf-8g54  
 https://commons.datacite.org/doi.org/10.57837/actris-ares/s6kf-8g54  
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=dus&kind=OPTICAL&wavelength=355  
@@ -83,7 +83,7 @@ ACTRIS-EARLINET 2025 aerosol optical property profiles over HPB Hohenpeissenberg
 Citation:  
 Mattis, I. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over HPB Observatory Hohenpeissenberg, Germany (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/ACTRIS-ARES/VZPW-1041 
 
-https://doi.org/10.57837/actris-ares/vzpw-1041
+https://doi.org/10.57837/actris-ares/vzpw-1041  
 https://commons.datacite.org/doi.org/10.57837/actris-ares/vzpw-1041
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=hpb&kind=OPTICAL&wavelength=355  
@@ -96,7 +96,7 @@ ACTRIS-EARLINET 2025 aerosol optical property profiles over INO Bucharest - Roma
 Citation:  
 Nicolae, D., & Belegante, L. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over INO Bucharest - Romania (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/GA6P-Q968  
 
-https://doi.org/10.57837/actris-ares/ga6p-q968
+https://doi.org/10.57837/actris-ares/ga6p-q968  
 https://commons.datacite.org/doi.org/10.57837/actris-ares/ga6p-q968  
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=ino&kind=OPTICAL&wavelength=355  
@@ -109,7 +109,7 @@ ACTRIS-EARLINET 2025 aerosol optical property profiles over KUO Kuopio - Finland
 Citation:  
 Komppula, M., & Shang, X. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over KUO Kuopio - Finland (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/WZ6Z-MA44  
 
-https://doi.org/10.57837/actris-ares/wz6z-ma44
+https://doi.org/10.57837/actris-ares/wz6z-ma44  
 https://commons.datacite.org/doi.org/10.57837/actris-ares/wz6z-ma44
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=kuo&kind=OPTICAL&wavelength=355  
@@ -122,7 +122,7 @@ ACTRIS-EARLINET 2025 aerosol optical property profiles over LLE Lille - France. 
 Citation:
 Goloub, P., & HU, Q. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over LLE Lille - France (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/BJRG-F887  
 
-https://doi.org/10.57837/actris-ares/bjrg-f887
+https://doi.org/10.57837/actris-ares/bjrg-f887  
 https://commons.datacite.org/doi.org/10.57837/actris-ares/bjrg-f887  
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=lle&kind=OPTICAL&wavelength=355  
@@ -135,7 +135,7 @@ ACTRIS-EARLINET 2025 aerosol optical property profiles over MDR Madrid - Spain. 
 Citation:  
 Pujadas, M., & Molero, F. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over MDR Madrid - Spain (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/YTF2-F311  
 
-https://doi.org/10.57837/actris-ares/ytf2-f311
+https://doi.org/10.57837/actris-ares/ytf2-f311  
 https://commons.datacite.org/doi.org/10.57837/actris-ares/ytf2-f311
  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=mdr&kind=OPTICAL&wavelength=532  
@@ -146,7 +146,7 @@ ACTRIS-EARLINET 2025 aerosol optical property profiles over POT Potenza-Italy. T
 Citation:  
 Amodeo, A., & Papagiannopoulos, N. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over POT Potenza-Italy (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/KERA-3A94  
 
-https://doi.org/10.57837/actris-ares/kera-3a94
+https://doi.org/10.57837/actris-ares/kera-3a94  
 https://commons.datacite.org/doi.org/10.57837/actris-ares/kera-3a94  
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=pot&kind=OPTICAL&wavelength=355  
@@ -159,7 +159,7 @@ ACTRIS-EARLINET 2025 aerosol optical property profiles over PUY Clermont-Ferrand
 Citation:  
 Freville, P., & Baray, J.-L. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over PUY Clermont-Ferrand - France (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/K4FM-2137  
 
-https://doi.org/10.57837/actris-ares/k4fm-2137
+https://doi.org/10.57837/actris-ares/k4fm-2137  
 https://commons.datacite.org/doi.org/10.57837/actris-ares/k4fm-2137 
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=puy&kind=OPTICAL&wavelength=355  
@@ -172,7 +172,7 @@ ACTRIS-EARLINET 2025 aerosol optical property profiles over THE Thessaloniki - G
 Citation:  
 Balis, D., & Voudouri, K. A. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over THE Thessaloniki - Greece (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/PDWG-VP41  
 
-https://doi.org/10.57837/actris-ares/pdwg-vp41
+https://doi.org/10.57837/actris-ares/pdwg-vp41  
 https://commons.datacite.org/doi.org/10.57837/actris-ares/pdwg-vp41  
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=the&kind=OPTICAL&wavelength=355  
@@ -185,7 +185,7 @@ ACTRIS-EARLINET 2025 aerosol optical property profiles over WAW Warsaw - Poland.
 Citation:  
 Stachlewska, I. S., & Szczepanik, D. M. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over WAW Warsaw - Poland (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/XP77-G009  
 
-https://doi.org/10.57837/actris-ares/xp77-g009
+https://doi.org/10.57837/actris-ares/xp77-g009  
 https://commons.datacite.org/doi.org/10.57837/actris-ares/xp77-g009
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=waw&kind=OPTICAL&wavelength=355  
