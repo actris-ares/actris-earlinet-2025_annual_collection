@@ -7,87 +7,33 @@ This collection contains for each station (if available):
 - all the aerosol extinction profiles  at 355, 532nm;
 - all the particle depolarization ratio profiles at 355, 532 e 1064nm (related files also contain volume depolarization ratio profiles at the same wavelength).
 
-https://doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/aerosol_optical_property_profiles  
-https://commons.datacite.org/cnr-imaa/ares/actris-earlinet/2025/aerosol_optical_property_profiles
+https://doi.org/10.57837/actris-ares/hj8h-qk42  
+https://commons.datacite.org/doi.org/10.57837/actris-ares/hj8h-qk42
 
 Citation:  
-Mona, L., D'Amico, G., Mattis, I., Dema, C., Gumà-Claramunt, P., Ripepi, E., Salvia, V., Volini, M., & ACTRIS ARES Data Centre. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2025/AEROSOL_OPTICAL_PROPERTY_PROFILES  
+Mona, L., Dema, C., D'Amico, G., Mattis, I., Gumà-Claramunt, P., Ripepi, E., Salvia, V., Volini, M., & ACTRIS ARES Data Centre. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/HJ8H-QK42  
 
 **AKY station, Antikythera, Greece**  
 ACTRIS-EARLINET 2025 aerosol optical property profiles over AKY Antikythera - Greece. This dataset collects all the aerosol optical property profiles collected in 2025 at aerosol remote sensing AKY station (Antikythera - Greece). This dataset is an incremental dataset: data collected in 2025 are added as soon as a new observation collected in 2025 is added on the ACTRIS/EARLINET database.  
 
 Citation:  
-Amiridis, V., & Marinou, E. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over AKY Antikythera - Greece (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2025/AKY/AEROSOL_OPTICAL_PROPERTY_PROFILES  
+Amiridis, V., & Marinou, E. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over AKY Antikythera - Greece (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/4JEW-MM52
 
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/aky/aerosol_optical_property_profiles  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/aky/aerosol_backscatter_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/aky/aerosol_backscatter_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/aky/aerosol_backscatter_1064  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/aky/aerosol_extinction_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/aky/aerosol_extinction_532 
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/aky/lidar_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/aky/lidar_ratio_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/aky/particle_depolarization_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/aky/particle_depolarization_ratio_532  
+https://doi.org/10.57837/actris-ares/4jew-mm52
+https://commons.datacite.org/doi.org/10.57837/actris-ares/4jew-mm52
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=AKY&kind=OPTICAL&wavelength=355  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=AKY&kind=OPTICAL&wavelength=532  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=AKY&kind=OPTICAL&wavelength=1064  
 
-**ARI mobile station**  
-ACTRIS-EARLINET 2025 aerosol optical property profiles by ARI - the aerosol mobile lidar OCEANET. This dataset collects all the aerosol optical property profiles collected in 2025 by ARI - the aerosol mobile lidar OCEANET. This dataset is incremental: data collected in 2025 are added as soon as a new observation is collected in 2025 and added to the ACTRIS/EARLINET database. ARI in 2025 collected measurements in Leipzig, Germany.    
-
-Citation:  
-Engelmann, R., Baars, H., & Klamt, A. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles by ARI - the aerosol mobile lidar OCEANET (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2025/ARI/AEROSOL_OPTICAL_PROPERTY_PROFILES  
-
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/ari/aerosol_optical_property_profiles  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/ari/aerosol_backscatter_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/ari/aerosol_backscatter_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/ari/aerosol_backscatter_1064  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/ari/aerosol_extinction_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/ari/aerosol_extinction_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/ari/lidar_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/ari/lidar_ratio_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/ari/particle_depolarization_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/ari/particle_depolarization_ratio_532  
-
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=ARI&kind=OPTICAL&wavelength=355  
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=ARI&kind=OPTICAL&wavelength=532  
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=ARI&kind=OPTICAL&wavelength=1064  
-
-**ATZ station, Athens, Greece**  
-ACTRIS-EARLINET 2025 aerosol optical property profiles over ATZ Athens - Greece. This dataset collects all the aerosol optical property profiles collected in 2025 at aerosol remote sensing ATZ station (Athens - Greece). This dataset is incremental: data collected in 2025 are added as soon as a new observation is collected in 2025 and added to the ACTRIS/EARLINET database.  
-
-Citation:  
-Papayannis, A., & Gidarakou, M. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over ATZ Athens - Greece (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2025/ATZ/AEROSOL_OPTICAL_PROPERTY_PROFILES  
-
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/atz/aerosol_optical_property_profiles  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/atz/aerosol_backscatter_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/atz/aerosol_backscatter_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/atz/aerosol_backscatter_1064  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/atz/aerosol_extinction_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/atz/aerosol_extinction_532   
-
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=ATZ&kind=OPTICAL&wavelength=355  
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=ATZ&kind=OPTICAL&wavelength=532  
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=ATZ&kind=OPTICAL&wavelength=1064  
-
 **BRC station, Barcelona, Spain**  
 ACTRIS-EARLINET 2025 aerosol optical property profiles over BRC Barcelona - Spain. This dataset collects all the aerosol optical property profiles collected in 2025 at aerosol remote sensing BRC station (Barcelona - Spain). This dataset is incremental: data collected in 2025 are added as soon as a new observation is collected in 2025 and added to the ACTRIS/EARLINET database.  
 
 Citation:  
-Muñoz-Porcar, C., & Rodríguez-Gómez, A. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over BRC Barcelona - Spain (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2025/BRC/AEROSOL_OPTICAL_PROPERTY_PROFILES  
+Muñoz-Porcar, C., & Rodríguez-Gómez, A. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over BRC Barcelona - Spain (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/3YHY-VA93  
 
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/brc/aerosol_optical_property_profiles  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/brc/aerosol_backscatter_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/brc/aerosol_backscatter_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/brc/aerosol_backscatter_1064  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/brc/aerosol_extinction_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/brc/aerosol_extinction_532 
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/brc/lidar_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/brc/lidar_ratio_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/brc/particle_depolarization_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/brc/particle_depolarization_ratio_532  
+https://doi.org/10.57837/actris-ares/3yhy-va93
+https://commons.datacite.org/doi.org/10.57837/actris-ares/3yhy-va93 
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=brc&kind=OPTICAL&wavelength=355  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=brc&kind=OPTICAL&wavelength=532  
@@ -97,143 +43,48 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 ACTRIS-EARLINET 2025 aerosol optical property profiles over CBW Cabauw - Netherlands. This dataset collects all the aerosol optical property profiles collected in 2025 at aerosol remote sensing CBW station (Cabauw - Netherlands). This dataset is incremental: data collected in 2025 are added as soon as a new observation is collected in 2025 and added to the ACTRIS/EARLINET database.  
 
 Citation:  
-Apituley, A., & Alves Gouveia, D. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over CBW Cabauw - Netherlands (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2025/CBW/AEROSOL_OPTICAL_PROPERTY_PROFILES  
+Apituley, A., & Alves Gouveia, D. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over CBW Cabauw - Netherlands (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/4PPD-HC50  
 
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cbw/aerosol_optical_property_profiles  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cbw/aerosol_backscatter_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cbw/aerosol_backscatter_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cbw/aerosol_backscatter_1064  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cbw/aerosol_extinction_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cbw/aerosol_extinction_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cbw/lidar_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cbw/lidar_ratio_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cbw/particle_depolarization_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cbw/particle_depolarization_ratio_532  
+https://doi.org/10.57837/actris-ares/4ppd-hc50
+https://commons.datacite.org/doi.org/10.57837/actris-ares/4ppd-hc50
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=cbw&kind=OPTICAL&wavelength=355  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=cbw&kind=OPTICAL&wavelength=532  
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=cbw&kind=OPTICAL&wavelength=1064  
-
-**CLJ station, Cluj-Napoca, Romania**  
-ACTRIS-EARLINET 2025 aerosol optical property profiles over CLJ Cluj-Napoca - Romania. This dataset collects all the aerosol optical property profiles collected in 2025 at aerosol remote sensing CLJ station (Cluj-Napoca - Romania). This dataset is incremental: data collected in 2025 are added as soon as a new observation is collected in 2025 and added to the ACTRIS/EARLINET database.  
-
-Citation:  
-Ajtai, N., & Stefanie, H. (2025). ACTRIS-EARLINET 2025 aerosol optical property over CLJ Cluj-Napoca - Romania (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2025/CLJ/AEROSOL_OPTICAL_PROPERTY_PROFILES  
-
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/clj/aerosol_optical_property_profiles  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/clj/aerosol_backscatter_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/clj/aerosol_backscatter_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/clj/aerosol_backscatter_1064  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/clj/aerosol_extinction_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/clj/aerosol_extinction_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/clj/lidar_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/clj/lidar_ratio_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/clj/particle_depolarization_ratio_355  
-
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=clj&kind=OPTICAL&wavelength=355  
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=clj&kind=OPTICAL&wavelength=532  
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=clj&kind=OPTICAL&wavelength=1064  
+Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=cbw&kind=OPTICAL&wavelength=1064   
 
 **CVO station, Mindelo, Capo Verde**  
 ACTRIS-EARLINET 2025 aerosol optical property profiles over CVO Mindelo - Capo Verde. This dataset collects all the aerosol optical property profiles collected in 2025 at aerosol remote sensing CVO station (Mindelo - Capo Verde). his dataset is an incremental dataset: data are added collected in 2025 as soon as a new observation collected in 2025 is added on the ACTRIS/EARLINET database.  
 
 Citation:  
-Baars, H., Engelmann, R., & Klamt, A. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over CVO Mindelo - Capo Verde (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2025/CVO/AEROSOL_OPTICAL_PROPERTY_PROFILES  
-
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cvo/aerosol_optical_property_profiles  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cvo/aerosol_backscatter_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cvo/aerosol_backscatter_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cvo/aerosol_backscatter_1064  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cvo/aerosol_extinction_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cvo/aerosol_extinction_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cvo/lidar_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cvo/lidar_ratio_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cvo/particle_depolarization_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cvo/particle_depolarization_ratio_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cvo/particle_depolarization_ratio_1064  
+Baars, H., Engelmann, R., & Klamt, A. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over CVO Mindelo - Capo Verde (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/3ABX-4D65  
+https://doi.org/10.57837/actris-ares/3abx-4d65
+https://commons.datacite.org/doi.org/10.57837/actris-ares/3abx-4d65
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=cvo&kind=OPTICAL&wavelength=355  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=cvo&kind=OPTICAL&wavelength=532  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=cvo&kind=OPTICAL&wavelength=1064  
 
-**CYC station, Limassol, Cyprus**  
-ACTRIS-EARLINET 2025 aerosol optical property profiles over CYC Limassol - Cyprus. This dataset collects all the aerosol optical property profiles collected in 2025 at aerosol remote sensing CYC station (Limassol - Cyprus). This dataset is incremental: data collected in 2025 are added as soon as a new observation is collected in 2025 and added to the ACTRIS/EARLINET database.  
-
-Citation:  
-Mamouri, R.-E., & Baars, H. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over CYC Limassol - Cyprus (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2025/CYC/AEROSOL_OPTICAL_PROPERTY_PROFILES  
-
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cyc/aerosol_optical_property_profiles  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cyc/aerosol_backscatter_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cyc/aerosol_backscatter_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cyc/aerosol_backscatter_1064  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cyc/aerosol_extinction_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cyc/aerosol_extinction_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cyc/lidar_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cyc/lidar_ratio_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cyc/particle_depolarization_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/cyc/particle_depolarization_ratio_532   
-
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=cyc&kind=OPTICAL&wavelength=355  
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=cyc&kind=OPTICAL&wavelength=532  
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=cyc&kind=OPTICAL&wavelength=1064 
-
 **DUS station, Dushanbe, Tajikistan**  
 ACTRIS-EARLINET 2025 aerosol optical property profiles over DUS Dushanbe - Tajikistan. This dataset collects all the aerosol optical property profiles collected in 2025 at aerosol remote sensing DUS station (Dushanbe - Tajikistan). This dataset is incremental: data collected in 2025 are added as soon as a new observation is collected in 2025 and added to the ACTRIS/EARLINET database.  
 
 Citation:  
-Baars, H., Engelmann, R., & Klamt, A. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over DUS Dushanbe - Tajikistan (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2025/DUS/AEROSOL_OPTICAL_PROPERTY_PROFILES  
+Baars, H., Engelmann, R., & Klamt, A. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over DUS Dushanbe - Tajikistan (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/S6KF-8G54  
 
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/dus/aerosol_optical_property_profiles  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/dus/aerosol_backscatter_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/dus/aerosol_backscatter_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/dus/aerosol_backscatter_1064  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/dus/aerosol_extinction_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/dus/aerosol_extinction_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/dus/lidar_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/dus/lidar_ratio_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/dus/particle_depolarization_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/dus/particle_depolarization_ratio_532  
+https://doi.org/10.57837/actris-ares/s6kf-8g54
+https://commons.datacite.org/doi.org/10.57837/actris-ares/s6kf-8g54  
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=dus&kind=OPTICAL&wavelength=355  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=dus&kind=OPTICAL&wavelength=532  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=dus&kind=OPTICAL&wavelength=1064  
 
-**GRA station, Granada, Spain**  
-ACTRIS-EARLINET 2025 aerosol optical property profiles over GRA Granada - Spain. This dataset collects all the aerosol optical property profiles collected in 2025 at ACTRIS aerosol remote sensing GRA station (Granada - Spain). This dataset is incremental: data collected in 2025 are added as soon as a new observation is collected in 2025 and added to the ACTRIS/EARLINET database.  
-
-Citation:  
-Alados-Arboledas, L., & Guerrero-Rascado, J. L. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over GRA Granada - Spain (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2025/GRA/AEROSOL_OPTICAL_PROPERTY_PROFILES  
-
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/gra/aerosol_optical_property_profiles  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/gra/aerosol_backscatter_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/gra/aerosol_backscatter_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/gra/aerosol_backscatter_1064  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/gra/aerosol_extinction_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/gra/aerosol_extinction_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/gra/lidar_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/gra/lidar_ratio_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/gra/particle_depolarization_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/gra/particle_depolarization_ratio_532  
-
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=gra&kind=OPTICAL&wavelength=355  
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=gra&kind=OPTICAL&wavelength=532  
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=gra&kind=OPTICAL&wavelength=1064  
-
 **HPB station, Observatory Hohenpeissenberg, Germany**  
 ACTRIS-EARLINET 2025 aerosol optical property profiles over HPB Hohenpeissenberg-Germany. This dataset collects all the aerosol optical property profiles collected in 2025 at ACTRIS aerosol remote sensing HPB station (Hohenpeissenberg - Germany). This dataset is incremental: data collected in 2025 are added as soon as a new observation is collected in 2025 and added to the ACTRIS/EARLINET database.  
 
 Citation:  
-Mattis, I. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over HPB Observatory Hohenpeissenberg, Germany (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2025/HPB/AEROSOL_OPTICAL_PROPERTY_PROFILES  
+Mattis, I. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over HPB Observatory Hohenpeissenberg, Germany (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/ACTRIS-ARES/VZPW-1041 
 
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/hpb/aerosol_optical_property_profiles  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/hpb/aerosol_backscatter_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/hpb/aerosol_backscatter_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/hpb/aerosol_backscatter_1064  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/hpb/aerosol_extinction_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/hpb/aerosol_extinction_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/hpb/lidar_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/hpb/lidar_ratio_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/hpb/particle_depolarization_ratio_532  
+https://doi.org/10.57837/actris-ares/vzpw-1041
+https://commons.datacite.org/doi.org/10.57837/actris-ares/vzpw-1041
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=hpb&kind=OPTICAL&wavelength=355  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=hpb&kind=OPTICAL&wavelength=532  
@@ -243,19 +94,10 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 ACTRIS-EARLINET 2025 aerosol optical property profiles over INO Bucharest - Romania. This dataset collects all the aerosol optical property profiles collected in 2025 at ACTRIS aerosol remote sensing INO station (Bucharest - Romania). This dataset is incremental: data collected in 2025 are added as soon as a new observation is collected in 2025 and added to the ACTRIS/EARLINET database.  
 
 Citation:  
-Nicolae, D., & Belegante, L. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over INO Bucharest - Romania (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2025/INO/AEROSOL_OPTICAL_PROPERTY_PROFILES  
+Nicolae, D., & Belegante, L. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over INO Bucharest - Romania (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/GA6P-Q968  
 
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/ino/aerosol_optical_property_profiles  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/ino/aerosol_backscatter_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/ino/aerosol_backscatter_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/ino/aerosol_backscatter_1064  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/ino/aerosol_extinction_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/ino/aerosol_extinction_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/ino/lidar_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/ino/lidar_ratio_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/ino/particle_depolarization_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/ino/particle_depolarization_ratio_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/ino/particle_depolarization_ratio_1064  
+https://doi.org/10.57837/actris-ares/ga6p-q968
+https://commons.datacite.org/doi.org/10.57837/actris-ares/ga6p-q968  
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=ino&kind=OPTICAL&wavelength=355  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=ino&kind=OPTICAL&wavelength=532  
@@ -265,62 +107,23 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 ACTRIS-EARLINET 2025 aerosol optical property profiles over KUO Kuopio - Finland. This dataset collects all the aerosol optical property profiles collected in 2025 at ACTRIS aerosol remote sensing KUO station (Kuopio - Finland). This dataset is incremental: data collected in 2025 are added as soon as a new observation is collected in 2025 and added to the ACTRIS/EARLINET database.  
 
 Citation:  
-Komppula, M., & Shang, X. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over KUO Kuopio - Finland (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2025/KUO/AEROSOL_OPTICAL_PROPERTY_PROFILES  
+Komppula, M., & Shang, X. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over KUO Kuopio - Finland (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/WZ6Z-MA44  
 
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/kuo/aerosol_optical_property_profiles  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/kuo/aerosol_backscatter_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/kuo/aerosol_backscatter_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/kuo/aerosol_backscatter_1064  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/kuo/aerosol_extinction_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/kuo/aerosol_extinction_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/kuo/lidar_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/kuo/lidar_ratio_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/kuo/particle_depolarization_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/kuo/particle_depolarization_ratio_532  
+https://doi.org/10.57837/actris-ares/wz6z-ma44
+https://commons.datacite.org/doi.org/10.57837/actris-ares/wz6z-ma44
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=kuo&kind=OPTICAL&wavelength=355  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=kuo&kind=OPTICAL&wavelength=532  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=kuo&kind=OPTICAL&wavelength=1064  
 
-**LEI station, Leipzig, Germany**  
-ACTRIS-EARLINET 2025 aerosol optical property profiles over LEI Leipzig - Germany. This dataset collects all the aerosol optical property profiles collected in 2025 at aerosol remote sensing LEI station (Leipzig - Germany). This dataset is incremental: data collected in 2025 are added as soon as a new observation is collected in 2025 and added to the ACTRIS/EARLINET database.  
-
-Citation:  
-Baars, H., Engelmann, R., & Klamt, A. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over LEI Leipzig - Germany (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2025/LEI/AEROSOL_OPTICAL_PROPERTY_PROFILES  
-
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/lei/aerosol_optical_property_profiles  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/lei/aerosol_backscatter_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/lei/aerosol_backscatter_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/lei/aerosol_backscatter_1064  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/lei/aerosol_extinction_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/lei/aerosol_extinction_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/lei/lidar_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/lei/lidar_ratio_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/lei/particle_depolarization_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/lei/particle_depolarization_ratio_532  
-
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=lei&kind=OPTICAL&wavelength=355  
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=lei&kind=OPTICAL&wavelength=532  
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=lei&kind=OPTICAL&wavelength=1064  
-
 **LLE station, Lille, France**  
 ACTRIS-EARLINET 2025 aerosol optical property profiles over LLE Lille - France. This dataset collects all the aerosol optical property profiles collected in 2025 at aerosol remote sensing LLE station (Lille - France). This dataset is incremental: data collected in 2025 are added as soon as a new observation is collected in 2025 and added to the ACTRIS/EARLINET database.  
 
 Citation:
-Goloub, P., & HU, Q. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over LLE Lille - France (Version 1). ACTRIS-ARES Data Centre. 
-https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2025/LLE/AEROSOL_OPTICAL_PROPERTY_PROFILES  
+Goloub, P., & HU, Q. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over LLE Lille - France (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/BJRG-F887  
 
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/lle/aerosol_optical_property_profiles  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/lle/aerosol_backscatter_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/lle/aerosol_backscatter_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/lle/aerosol_backscatter_1064  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/lle/aerosol_extinction_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/lle/aerosol_extinction_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/lle/lidar_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/lle/lidar_ratio_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/lle/particle_depolarization_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/lle/particle_depolarization_ratio_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/lle/particle_depolarization_ratio_1064  
+https://doi.org/10.57837/actris-ares/bjrg-f887
+https://commons.datacite.org/doi.org/10.57837/actris-ares/bjrg-f887  
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=lle&kind=OPTICAL&wavelength=355  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=lle&kind=OPTICAL&wavelength=532  
@@ -330,13 +133,10 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 ACTRIS-EARLINET 2025 aerosol optical property profiles over MDR Madrid - Spain. This dataset collects all the aerosol optical property profiles collected in 2025 at aerosol remote sensing MDR station (Madrid - Spain). This dataset is incremental: data collected in 2025 are added as soon as a new observation is collected in 2025 and added to the ACTRIS/EARLINET database.  
 
 Citation:  
-Pujadas, M., & Molero, F. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over MDR Madrid - Spain (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2025/MDR/AEROSOL_OPTICAL_PROPERTY_PROFILES  
+Pujadas, M., & Molero, F. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over MDR Madrid - Spain (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/YTF2-F311  
 
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/mdr/aerosol_optical_property_profiles  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/mdr/aerosol_backscatter_532   
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/mdr/aerosol_extinction_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/mdr/lidar_ratio_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/mdr/particle_depolarization_ratio_532  
+https://doi.org/10.57837/actris-ares/ytf2-f311
+https://commons.datacite.org/doi.org/10.57837/actris-ares/ytf2-f311
  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=mdr&kind=OPTICAL&wavelength=532  
 
@@ -344,19 +144,10 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 ACTRIS-EARLINET 2025 aerosol optical property profiles over POT Potenza-Italy. This dataset collects all the aerosol optical property profiles collected in 2025 at aerosol remote sensing POT station (Potenza – Italy). This dataset is incremental: data collected in 2025 are added as soon as a new observation is collected in 2025 and added to the ACTRIS/EARLINET database.  
 
 Citation:  
-Amodeo, A., & Papagiannopoulos, N. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over POT Potenza-Italy (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2025/POT/AEROSOL_OPTICAL_PROPERTY_PROFILES  
+Amodeo, A., & Papagiannopoulos, N. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over POT Potenza-Italy (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/KERA-3A94  
 
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/pot/aerosol_optical_property_profiles  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/pot/aerosol_backscatter_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/pot/aerosol_backscatter_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/pot/aerosol_backscatter_1064  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/pot/aerosol_extinction_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/pot/aerosol_extinction_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/pot/lidar_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/pot/lidar_ratio_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/pot/particle_depolarization_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/pot/particle_depolarization_ratio_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/pot/particle_depolarization_ratio_1064  
+https://doi.org/10.57837/actris-ares/kera-3a94
+https://commons.datacite.org/doi.org/10.57837/actris-ares/kera-3a94  
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=pot&kind=OPTICAL&wavelength=355  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=pot&kind=OPTICAL&wavelength=532  
@@ -366,80 +157,23 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 ACTRIS-EARLINET 2025 aerosol optical property profiles over PUY Clermont-Ferrand - France. This dataset collects all the aerosol optical property profiles collected in 2025 at aerosol remote sensing PUY station (Clermont-Ferrand - France). his dataset is an incremental dataset: data are added collected in 2025 as soon as a new observation collected in 2025 is added on the ACTRIS/EARLINET database.   
 
 Citation:  
-Freville, P., & Baray, J.-L. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over PUY Clermont-Ferrand - France (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2025/PUY/AEROSOL_OPTICAL_PROPERTY_PROFILES  
+Freville, P., & Baray, J.-L. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over PUY Clermont-Ferrand - France (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/K4FM-2137  
 
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/puy/aerosol_optical_property_profiles  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/puy/aerosol_backscatter_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/puy/aerosol_backscatter_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/puy/aerosol_backscatter_1064  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/puy/aerosol_extinction_355   
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/puy/lidar_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/puy/particle_depolarization_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/puy/particle_depolarization_ratio_532  
+https://doi.org/10.57837/actris-ares/k4fm-2137
+https://commons.datacite.org/doi.org/10.57837/actris-ares/k4fm-2137 
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=puy&kind=OPTICAL&wavelength=355  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=puy&kind=OPTICAL&wavelength=532  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=puy&kind=OPTICAL&wavelength=1064  
 
-**RUN station, Observatoire de Physique de l'Atmosphère de La Réunion (OPAR), Saint-Denis site, La Reunion, France**  
-ACTRIS-EARLINET 2025 aerosol optical property profiles over RUN Observatoire de Physique de l'Atmosphère de La Réunion (OPAR), Saint-Denis site, La Reunion - France. This dataset collects all the aerosol optical property profiles collected in 2025 at aerosol remote sensing RUN station (La Reunion - France). This dataset is incremental: data collected in 2025 are added as soon as a new observation is collected in 2025 and added to the ACTRIS/EARLINET database.  
-
-Citation:  
-Sicard, M., & Gantois, D. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over RUN Observatoire de Physique de l'Atmosphère de La Réunion (OPAR), Saint-Denis site, La Reunion - France (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2025/RUN/AEROSOL_OPTICAL_PROPERTY_PROFILES  
-
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/run/aerosol_optical_property_profiles  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/run/aerosol_backscatter_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/run/aerosol_extinction_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/run/lidar_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/run/particle_depolarization_ratio_355  
-
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=run&kind=OPTICAL&wavelength=355  
-
-**SAL station, Lecce, Italy**  
-ACTRIS-EARLINET 2025 aerosol optical property profiles over SAL Lecce - Italy. This dataset collects all the aerosol optical property profiles collected in 2025 at aerosol remote sensing SAL station (Lecce - Italy). This dataset is incremental: data collected in 2025 are added as soon as a new observation is collected in 2025 and added to the ACTRIS/EARLINET database.  
-
-Citation:  
-CALCAGNILE, L., & Romano, S. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over SAL Lecce - Italy (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2025/SAL/AEROSOL_OPTICAL_PROPERTY_PROFILES  
-
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/sal/aerosol_optical_property_profiles  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/sal/aerosol_backscatter_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/sal/aerosol_backscatter_532    
-
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=sal&kind=OPTICAL&wavelength=355  
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=sal&kind=OPTICAL&wavelength=532  
-
-**SOF station, Sofia, Bulgaria**  
-ACTRIS-EARLINET 2025 aerosol optical property profiles over SOF Sofia - Bulgaria. This dataset collects all the aerosol optical property profiles collected in 2025 at aerosol remote sensing SOF station (Sofia - Bulgaria). This dataset is incremental: data collected in 2025 are added as soon as a new observation is collected in 2025 and added to the ACTRIS/EARLINET database.  
-
-Citation:  
-Peshev, Z., & Dreischuh, T. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over SOF Sofia - Bulgaria (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2025/SOF/AEROSOL_OPTICAL_PROPERTY_PROFILES  
-
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/sof/aerosol_optical_property_profiles  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/sof/aerosol_backscatter_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/sof/aerosol_backscatter_532    
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/sof/aerosol_backscatter_1064  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/sof/aerosol_extinction_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/sof/aerosol_extinction_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/sof/lidar_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/sof/lidar_ratio_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/sof/particle_depolarization_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/sof/particle_depolarization_ratio_532  
-
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=sof&kind=OPTICAL&wavelength=355  
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=sof&kind=OPTICAL&wavelength=532  
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=sof&kind=OPTICAL&wavelength=1064  
-
 **THE station, Thessaloniki, Greece**  
 ACTRIS-EARLINET 2025 aerosol optical property profiles over THE Thessaloniki - Greece. This dataset collects all the aerosol optical property profiles collected in 2025 at aerosol remote sensing THE station (Thessaloniki - Greece). This dataset is incremental: data collected in 2025 are added as soon as a new observation is collected in 2025 and added to the ACTRIS/EARLINET database.  
 
 Citation:  
-Balis, D., & Voudouri, K. A. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over THE Thessaloniki - Greece (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2025/THE/AEROSOL_OPTICAL_PROPERTY_PROFILES  
+Balis, D., & Voudouri, K. A. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over THE Thessaloniki - Greece (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/PDWG-VP41  
 
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/the/aerosol_optical_property_profiles  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/the/aerosol_backscatter_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/the/aerosol_backscatter_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/the/aerosol_backscatter_1064  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/the/particle_depolarization_ratio_532  
+https://doi.org/10.57837/actris-ares/pdwg-vp41
+https://commons.datacite.org/doi.org/10.57837/actris-ares/pdwg-vp41  
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=the&kind=OPTICAL&wavelength=355  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=the&kind=OPTICAL&wavelength=532  
@@ -449,19 +183,11 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 ACTRIS-EARLINET 2025 aerosol optical property profiles over WAW Warsaw - Poland. This dataset collects all the aerosol optical property profiles collected in 2025 at aerosol remote sensing WAW station (Warsaw - Poland). This dataset is incremental: data collected in 2025 are added as soon as a new observation is collected in 2025 and added to the ACTRIS/EARLINET database.  
 
 Citation:  
-Stachlewska, I. S., & Szczepanik, D. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over WAW Warsaw - Poland (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2025/WAW/AEROSOL_OPTICAL_PROPERTY_PROFILES  
+Stachlewska, I. S., & Szczepanik, D. M. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over WAW Warsaw - Poland (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/XP77-G009  
 
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/waw/aerosol_optical_property_profiles  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/waw/aerosol_backscatter_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/waw/aerosol_backscatter_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/waw/aerosol_backscatter_1064  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/waw/aerosol_extinction_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/waw/aerosol_extinction_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/waw/lidar_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/waw/lidar_ratio_532  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/waw/particle_depolarization_ratio_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2025/waw/particle_depolarization_ratio_532  
+https://doi.org/10.57837/actris-ares/xp77-g009
+https://commons.datacite.org/doi.org/10.57837/actris-ares/xp77-g009
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=waw&kind=OPTICAL&wavelength=355  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=waw&kind=OPTICAL&wavelength=532  
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=waw&kind=OPTICAL&wavelength=1064  
+Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=waw&kind=OPTICAL&wavelength=1064
