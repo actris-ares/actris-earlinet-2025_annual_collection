@@ -3,9 +3,9 @@
 ACTRIS-EARLINET 2025 aerosol optical property profiles. This dataset collects all the aerosol optical property profiles collected in 2025 at aerosol remote sensing stations. This dataset is incremental: data collected in 2025 are added as soon as a new observation is collected in 2025 and added to the ACTRIS/EARLINET database.  
 
 This collection contains for each station (if available): 
-- all the aerosol backscatter profiles at 355, 532 and 1064nm;
-- all the aerosol extinction profiles  at 355, 532nm;
-- all the particle depolarization ratio profiles at 355, 532 and 1064nm (related files also contain volume depolarization ratio profiles at the same wavelength).
+- all the aerosol backscatter profiles at all wavelengths available;
+- all the aerosol extinction profiles at all wavelengths available;
+- all the particle depolarization ratio profiles at all wavelengths available (related files also contain volume depolarization ratio profiles at the same wavelength).
 
 https://doi.org/10.57837/actris-ares/hj8h-qk42  
 https://commons.datacite.org/doi.org/10.57837/actris-ares/hj8h-qk42
