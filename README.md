@@ -116,6 +116,19 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=kuo&kind=OPTICAL&wavelength=532  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=kuo&kind=OPTICAL&wavelength=1064  
 
+**LIM station, Limassol, Cyprus**  
+ACTRIS-EARLINET 2025 aerosol optical property profiles over LIM Limassol, Cyprus. This dataset collects all the aerosol optical property profiles collected in 2025 at aerosol remote sensing LIM station (Limassol - Cyprus). This dataset is incremental: data collected in 2025 are added as soon as a new observation is collected in 2025 and added to the ACTRIS/EARLINET database.  
+
+Citation:
+Mamouri, R.-E., & Baars, H. (2025). ACTRIS-EARLINET 2025 aerosol optical property profiles over LIM Limassol - Cyprus (Version 1). ACTRIS ARES Data Centre Unit. https://doi.org/10.57837/ACTRIS-ARES/7DS4-6R57  
+
+https://doi.org/10.57837/actris-ares/7ds4-6r57  
+https://commons.datacite.org/doi.org/10.57837/actris-ares/7ds4-6r57  
+
+Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=lim&kind=OPTICAL&wavelength=355  
+Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=lim&kind=OPTICAL&wavelength=532  
+Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=lim&kind=OPTICAL&wavelength=1064  
+
 **LLE station, Lille, France**  
 ACTRIS-EARLINET 2025 aerosol optical property profiles over LLE Lille - France. This dataset collects all the aerosol optical property profiles collected in 2025 at aerosol remote sensing LLE station (Lille - France). This dataset is incremental: data collected in 2025 are added as soon as a new observation is collected in 2025 and added to the ACTRIS/EARLINET database.  
 
