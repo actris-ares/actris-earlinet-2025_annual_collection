@@ -22,7 +22,7 @@ Amiridis, V., & Marinou, E. (2025). ACTRIS-EARLINET 2025 aerosol optical propert
 https://doi.org/10.57837/actris-ares/4jew-mm52  
 https://commons.datacite.org/doi.org/10.57837/actris-ares/4jew-mm52
 
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=AKY&kind=OPTICAL&wavelength=355  
+Download: https://api.actris-ares.eu/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=AKY&kind=OPTICAL&wavelength=355  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=AKY&kind=OPTICAL&wavelength=532  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2025-01-01&toDate=2025-12-31&stations=AKY&kind=OPTICAL&wavelength=1064  
 
